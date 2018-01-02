@@ -20,8 +20,8 @@ class Authorize {
     static let kAccessToken = "access_token"
     static let kRefreshToken = "refresh_token"
     static let client_id = 2
-    static let client_secret = "KT18THvmHBzI1rjQrxTEt7mKWnLsH3KxqeNdPR9x"
-    static let checkerToken = "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjA2MjY0NGUxN2RlYTMxMmFmYTBjZWQ4NTZiM2E5NTIyYWNhZjMyZGQ2ZjY3YzNkMTdmOTkyMjRhMzVkYWMyMWIwYjBmODcxMDEwMzEzMWI5In0.eyJhdWQiOiIxIiwianRpIjoiMDYyNjQ0ZTE3ZGVhMzEyYWZhMGNlZDg1NmIzYTk1MjJhY2FmMzJkZDZmNjdjM2QxN2Y5OTIyNGEzNWRhYzIxYjBiMGY4NzEwMTAzMTMxYjkiLCJpYXQiOjE1MTMzNjc1MjgsIm5iZiI6MTUxMzM2NzUyOCwiZXhwIjoxNTQ0OTAzNTI4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.OsN452eirjW_ICdXEsReXBn9LZofu9ivxKzY9uQKpO5-Fcn69MNbfqSyPUiaKfTnpsSdQVmTSJcQ1SVia4cl1G8r-JXZLDR-EB9lTl_9f79BaFz6k9HP-N7FtqPm49vE4VQiO4mUeMdRPnWnzwmHIOzQcXhGrOt6gVuJAq9WYjz87HNTqsYfhIrRQcaaS7DvVCsBrQEdCZtdi20GVAfWw_F9RMH3caaio_KKiz7glzMGitIzxml_CZU6dAA3PqSw6rDL4RTurbKbFkG3LHaQdAoX9MPEibJtJuMzXXm1z_ou-ZC27rxwVoWXbgr0RaZX42qPdfS4VMThteA103klZHRqhpH0iCScrgXiq6FJSxk4komb1V0m8lIdGKbIs3C209MbaIswWyhEodpA0KxbZZSkdJ40YV_9MQtdJpLcLMIiAAM2CEIixpK2JqmHPHvUuxp18GvZPXLU0exNreCRc2Wz7Dc4COLUeEz6BSHXlokmSDuf4-Iagx2-bWn7IpN3P_wU0eBpzJqnTKZqungDzkKRfRJRVQQPFtB__Zj0JjO00CjXiSfKTLT5SPNNuLXDpaKpM8XOI_3r-r9Dg_Ryi1_psN_JwTK2ihtVpgI2EYMX45zNb4r5bFuuMFXTB2ckGY8ANJO9Ki2CwwuYKp1CxPYBPxaW4O-mC75wDl9kYEc"
+    static let client_secret = "2iPSY9Fe6V9lVpQbQxXQZ7J5yV4dAwCis2MXfyn7"
+    static let checkerToken = "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjcxOWI5NWI3YjI3NTQzZDVmNTAyYTRhNmIyNmFlYTc0OGNjMzQwYjYwMDM0NjE1YzkxZGMyMTFiY2QxNDNkOGQ5OTY0ZTc0MmM2ZWFiMGU1In0.eyJhdWQiOiIxIiwianRpIjoiNzE5Yjk1YjdiMjc1NDNkNWY1MDJhNGE2YjI2YWVhNzQ4Y2MzNDBiNjAwMzQ2MTVjOTFkYzIxMWJjZDE0M2Q4ZDk5NjRlNzQyYzZlYWIwZTUiLCJpYXQiOjE1MTQ0MDEzNjUsIm5iZiI6MTUxNDQwMTM2NSwiZXhwIjoxNTQ1OTM3MzY1LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.k2FYeKMeeFnhUxXosr_GQIs0RsKCaAFP-cZ07USa8MSJGKT4WrvT07XrmQSaZ2Ds8yv9L7KT1cdtQHm9sfiC5B3NOAGT02EAqM2I3qP91KuoslNz3FuPongPBitaCF3SIUKq1fvZ_crTSEhc59RvZ4KVa2MSVFy-bbDNFM2kUOolqAI72upl0BOiEXg6tmTYjARGuFYhN5NtCr-lTTwAgVb-IJYiCcC6B058tmn_zsHJ0Q82BIbOn09PTb3mgqtb6DNWi1tG6iGjeTh2KsFaeKgUnYq-aDhApslIWKKCnCaOWwdaez9qe0srNpuFJE7xvL4tgw_G93-g6elWHVNPOrTgL5eCkYkVJcNaIR74mex24dcJNHa3rKCT8hMm04pfPzel-p3Jfd8v-tXVEVJkmiTHSplwVbHWuJVX1U4Xp7CWobteVRTkoGxHqB4XsG82OChS7iv4TOq8OXo-FpnetHm1mrj1imldR4PP1cSbAo2F1CaBETbG13N0sN2Y0OkfElijYN97h0t2Obfs484tF61ZTwvoRGG615CdbwmGgDktr4gNIKI9Rzcbvt1ehyBN7Os5pN8nUlTiDzn84YR3x7zh_yFm6LXu0v__q7wrj5gUdF0hAWgI6Ma-sRYK9zD4A3FaOLUmRKAvybXU9jFIxPZ_QV1SM7iP99elJj6puGI"
     
     static public func getActiveUser() -> String {
         let access_data = Locksmith.loadDataForUserAccount(userAccount: Authorize.current)
@@ -109,12 +109,12 @@ class Authorize {
     
     static public func makeUrl(slug: String) -> String {
 
-        return "http://13.59.33.39/api\(slug)"
+        return "http://manageriot.com/api\(slug)"
     }
     
     static public func makeOauthUrl(slug: String) -> String {
         
-        return "http://13.59.33.39\(slug)"
+        return "http://manageriot.com\(slug)"
     }
     
     
